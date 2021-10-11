@@ -1,0 +1,16 @@
+{
+    "products": [
+      {
+          "product": "61602d6b9afded717678c2fb",
+          "count": 2,
+          "color":"green"
+      },
+      {
+          "product": "61602d3e9afded717678c2f8",
+          "count": 2,
+          "color":"red"
+      }
+    ],
+    "TotalAmount": "55",
+    "customerId": ""
+  }
