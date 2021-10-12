@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import VendorPrivateRoute from "./shared/HOC/VendorPrivateRoute";
 import AdminPrivateRoute from "./shared/HOC/AdminPrivateRoute";
 import CustomerPrivateRoute from "./shared/HOC/CustomerPrivateRoute";
-
 import Login from "./shared/containers/Login";
 import Register from "./shared/containers/Register";
+
 import Product from "./customer/containers/Products";
 import Cart from "./customer/containers/Cart";
 
